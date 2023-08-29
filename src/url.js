@@ -1,0 +1,1 @@
+export const URL = "https://social-snap-banckend.onrender.com";
